@@ -1,0 +1,54 @@
+body {
+    background-image: url(123.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo {
+    display: block;
+    width: 300px;
+    height: 350px;
+    margin: 0 auto;
+    
+}
+img {
+    width: 300px;
+    height: 350px;
+    border-radius: 50%;
+    
+}
+h1 {
+    font-size: 100px;
+    color: darkorange;
+    text-align: center;
+    width: 1000px;
+    display: block;
+    margin-left: 25%;
+    font-family: fantasy;
+}
+.information {
+    font-size: 30px;
+    color: white;
+    display: block;
+    width: 500px;
+    height:  300px;
+    text-align: center;
+    padding-left: 37%;
+    padding-top: 100px;
+}
+span {
+    font-size: 60px;
+    color: darkorange;
+    text-align: center;
+    display: block;
+    padding-top: 100px;
+}
+.contacts{
+    position: relative;
+    text-align: center;
+    padding-top: 100px;
+}
+a{
+    font-size: 30px;
+    text-decoration: none;
+}
