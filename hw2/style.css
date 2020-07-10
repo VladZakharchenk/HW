@@ -1,0 +1,13 @@
+
+
+.head{
+    display: inline-block;
+    width: 1000px;
+}
+
+.nav{
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 80px;
+}
+
