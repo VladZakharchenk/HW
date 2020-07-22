@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+.container {
+    display: inline-block;
+    width: 900px;
+    margin-left: 20%;
+    margin-top: 5%;
+    padding: 5%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    
+}
+p {
+    font-family: 'Lato', sans-serif; 
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+.paragraph{
+    font-family: 'Playfair Display', serif;
+        font-size: 110px;
+        color: rgb(23, 23, 23);
+        line-height: 0.309;
+        font-size: 60px;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    color: orange;
+    border-color: orange;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Lato', sans-serif;
+}
+.lato {
+    font-family: 'Lato';
+    font-size: 24px;
+    font-weight: 300; 
+}
