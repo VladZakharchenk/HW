@@ -1,0 +1,45 @@
+  body {
+    font-family:'Lucida Grande', 'Lucida Sans Unicode';
+    background-color:dodgerblue !important; 
+    color: white !important;
+}
+
+
+div {
+   border: 1px solid white;
+   transition: all .25s ease-in;
+   font-size: 33px;
+}
+.lisbon:hover {
+    background-color: blue;
+}
+.paris:hover {
+    background-color: #33cccc;
+}
+.belgrade:hover {
+    background-color: #996699;
+}
+.moscow:hover {
+    background-color: #c24747;
+}
+.tel_aviv:hover {
+    background-color: #e2674a;
+}
+.cair:hover {
+    background-color: #ffcc66;
+}
+.new_york:hover {
+    background-color: #99cc99;
+}
+.new_delhi:hover {
+    background-color: #669999;
+}
+.san_francisko:hover {
+    background-color: #cc6699;
+}
+.tokio:hover {
+    background-color: #339966;
+}
+.sidnay:hover {
+    background-color: #666699;
+}
