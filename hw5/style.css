@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    width: 100%;
+    
+}
+.container {
+    display: inline-block;
+    margin-left: 40%;
+    margin-top: 20%;
+}
+.logo {
+    margin-left: 35px;
+}
+.title {
+    color: white;
+    border-bottom: 2px solid white;
+    display: inline-block;
+    padding-bottom: 15px;
+}
+.nav {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+.footer_title {
+    display: flex;
+    color: white;
+    justify-content:center;
+    margin-top: 45px;
+    text-decoration: none;
+}
