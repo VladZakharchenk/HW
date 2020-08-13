@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 div {
     width: 200px;
@@ -31,3 +32,38 @@ div {
 .rotate:hover {
     transform: rotate(0.5turn);
 }
+=======
+
+div {
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+}
+.skew {
+ background-color: red;
+ 
+}
+.skew:hover {
+    transform: skew(20deg, 0deg);
+}
+.scale {
+    background-color: yellow;
+}
+.scale:hover {
+    transform: scale(2, 0.5);
+}
+.translate {
+    background-color: green;
+}
+.translate:hover {
+    transform: translate(120px, 50%);
+}
+
+.rotate {
+ background-color: hotpink;
+ border-bottom: 2px solid black ;
+}
+.rotate:hover {
+    transform: rotate(0.5turn);
+}
+>>>>>>> 8107490c44e62e24fb388e89ced4e0e47a0a7303

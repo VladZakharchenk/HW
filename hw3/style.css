@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container{
     display: inline-block;
     width: 760px;
@@ -31,4 +32,39 @@ h4{
 }
 a{
     text-decoration: none;
+=======
+.container{
+    display: inline-block;
+    width: 760px;
+    margin-left: 25%;
+}
+.title {
+    text-align: center;
+    color: white;
+    background-color: rgb(166,42, 42);
+}
+.impedit{
+    color: royalblue;
+}
+.sunset {
+    text-align: center;
+}
+.text{
+    margin-top: 20px;
+}
+.car{
+    text-align: center;
+    margin: 20px;
+}
+.dashed{
+    border-style: dashed;
+}
+h4{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+>>>>>>> 8107490c44e62e24fb388e89ced4e0e47a0a7303
 }
